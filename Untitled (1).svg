@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 36 108" xmlns="http://www.w3.org/2000/svg">
+  <g id="label"/>
+  <g id="BC"/>
+  <g id="brand"/>
+  <g id="generic"/>
+  <g id="negative"/>
+  <g id="creation"/>
+  <g id="games"/>
+  <g id="Social_and_Interaction"/>
+  <g id="Navigation"/>
+  <g id="Friends_Status">
+    <g id="Available">
+      <circle cx="18" cy="90" r="16" style="fill: rgb(155, 212, 188);"/>
+      <g/>
+    </g>
+    <g id="InStudio">
+      <circle cx="18" cy="54" r="16" style="fill: rgb(181, 155, 124);"/>
+    </g>
+    <g id="InGame">
+      <circle cx="18" cy="18" r="16" style="fill: rgb(204, 120, 148);"/>
+      <g>
+        <title>sasd</title>
+      </g>
+    </g>
+  </g>
+</svg>
